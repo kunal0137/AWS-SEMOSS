@@ -70,13 +70,11 @@
               
             },
             "sources" : {
-              "download-semoss":"c:\\https://raw.githubusercontent.com/kunal0137/Azure-SEMOSS-Template/master/Install_SEMOSS.ps1"
             },
             "files" : {
               
             },
             "commands" : {
-             "install-semoss" :{"cd c:\\":"cmd Install_SEMOSS.ps1"}
             },
             "services" : {
               
